@@ -1,2 +1,9 @@
-# workshop-1day-app
-Our 1-day workshop to create an Angular app with basic functionality for your next web project
+# Workshop: Angular Quickstart from Zero to App
+
+Our 1-day workshop to create an Angular app with basic functionality for your
+next web project. See more at:
+
+[http://www.ng-lisbon.com](www.ng-lisbon.com)
+
+This repository contains the slides powered by
+[https://yhatt.github.io/marp/#](Marp).
