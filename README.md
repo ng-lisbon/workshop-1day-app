@@ -6,4 +6,4 @@ next web project. See more at:
 [http://www.ng-lisbon.com](www.ng-lisbon.com)
 
 This repository contains the slides powered by
-[https://yhatt.github.io/marp/#](Marp).
+[Marp](https://yhatt.github.io/marp/#).
